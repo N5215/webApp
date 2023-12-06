@@ -1,0 +1,14 @@
+html{
+    font-size: medium;
+    
+}
+body{
+    background-color: azure;
+    color: black;
+}
+table, th, td {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse:separate ;
+    width: 25%;
+  }
